@@ -1,18 +1,21 @@
 {
   "title": "My site",
-  "favicon": "image/favicon.ico",
+  "favicon": "https://media-resource.spreading.io/docuo/workspace334/489065b1a284f19d4a0ba2b4789af4e3/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "Galope",
+      "logo": "https://media-resource.spreading.io/docuo/workspace334/489065b1a284f19d4a0ba2b4789af4e3/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": "image/logo.png",
